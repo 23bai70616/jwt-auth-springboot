@@ -109,14 +109,4 @@ For testing purposes, use the following credentials (hardcoded in `AuthControlle
 
 ---
 
-## 🖼️ Screenshots
 
-*Sample visuals of the application performance and UI:*
-
-![Dashboard Preview](https://img.shields.io/badge/Preview-Dashboard-6366f1)
-![Login Preview](https://img.shields.io/badge/Preview-Login-4f46e5)
-
----
-
-## ⚖️ License
-Distributed under the **MIT License**. See `LICENSE` for more information.
